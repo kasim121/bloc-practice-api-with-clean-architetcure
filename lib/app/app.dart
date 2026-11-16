@@ -6,7 +6,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 /// SRP: application shell (theme + root providers).
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  const   MyApp({super.key});
 
   @override
   Widget build(BuildContext context) {
